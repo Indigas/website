@@ -3,3 +3,5 @@
 skuksa
 
 # upravene v idea
+
+## getting started
