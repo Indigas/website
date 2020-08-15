@@ -2,6 +2,6 @@
 
 skuksa
 
-# upravene v idea
+# v idea
 
 development
