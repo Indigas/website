@@ -2,6 +2,7 @@
 
 skuksa
 
-# upravene v idea
+# v idea
 
-## getting started
+development
+
