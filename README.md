@@ -5,4 +5,3 @@ skuksa
 # upravene v idea
 
 development
-#change readme
